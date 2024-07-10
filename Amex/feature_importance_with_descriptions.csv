@@ -1,0 +1,34 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+28,total_wickets,0.14822163,1.0,
+31,total_balls_bowled,0.0897468,2.0,
+29,avg_wickets,0.08509811,3.0,
+22,total_balls_faced,0.047791883,4.0,
+25,total_runs_conceded,0.045192763,5.0,
+27,std_runs_conceded,0.043968823,6.0,
+6,toss decision,0.039479602,7.0,
+26,avg_runs_conceded,0.033744868,8.0,
+23,avg_balls_faced,0.03345293,9.0,
+10,lighting,0.027934171,10.0,
+15,team_winp_last5,0.025411298,11.0,Ratio of team1's win % to team2's win % in last 5 games
+14,team_count_50runs_last15,0.02529289,12.0,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+21,std_runs,0.024808802,13.0,
+30,std_wickets,0.022389427,14.0,
+19,total_runs,0.021949934,15.0,
+7,venue,0.021558605,16.0,
+2,team1_id,0.021188412,17.0,
+11,series_name,0.02058943,18.0,
+16,team1only_avg_runs_last15,0.01953786,19.0,Team1's avg inning runs in last 15 games
+5,toss winner,0.019399531,20.0,
+18,ground_avg_runs_last15,0.017903334,21.0,Average runs scored in the ground in last 15 games
+17,team1_winp_team2_last15,0.01752533,22.0,Team1's win percentage against Team2 in last 15 games
+1,team1,0.017018579,23.0,
+24,std_balls_faced,0.016148767,24.0,
+33,std_balls_bowled,0.015969092,25.0,
+3,team2,0.015766453,26.0,
+13,ground_id,0.015537301,27.0,
+4,team2_id,0.014617603,28.0,
+20,avg_runs,0.014378828,29.0,
+8,city,0.014341346,30.0,
+32,avg_balls_bowled,0.014213378,31.0,
+9,match_dt,0.009822268,32.0,
+12,season,0.0,33.0,
